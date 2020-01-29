@@ -5,5 +5,6 @@ https://github.com/benratkin/flatiron/tree/master/section_4/dsc-project-eda-with
 
 **OR**
 
-If you really want to see the cool (but private) production stuff, ask for access to two of my private repos:
-To be continued...
+If you're serious and want to see the cool (but private) stuff, ask for access to two of my private repos:
+https://github.com/benratkin/data_delta (Production ETL system implemented in AWS EC2; ingesting, cleaning and custom SQL logic to update 24 million rows per delta file)
+https://github.com/benratkin/data_scraper (Production webscraping module on AWS EC2; scrape ~8,000 websites per day for rental vacancy data, transform and load to AWS RDS instance running PostgreSQL)
