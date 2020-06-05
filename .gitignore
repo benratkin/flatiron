@@ -1,4 +1,6 @@
 # Ignore these:
 /docs
 /utils
+/full_course
 questions.txt
+learn_scrape.py
